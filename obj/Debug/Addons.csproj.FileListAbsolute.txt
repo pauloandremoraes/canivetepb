@@ -1,0 +1,12 @@
+c:\users\paulo.moraes\documents\visual studio 2013\Projects\Addons\Addons\bin\Debug\Addons.exe.config
+c:\users\paulo.moraes\documents\visual studio 2013\Projects\Addons\Addons\bin\Debug\Addons.exe
+c:\users\paulo.moraes\documents\visual studio 2013\Projects\Addons\Addons\bin\Debug\Addons.pdb
+c:\users\paulo.moraes\documents\visual studio 2013\Projects\Addons\Addons\obj\Debug\Addons.csprojResolveAssemblyReference.cache
+c:\users\paulo.moraes\documents\visual studio 2013\Projects\Addons\Addons\obj\Debug\Interop.SAPbobsCOM.dll
+c:\users\paulo.moraes\documents\visual studio 2013\Projects\Addons\Addons\obj\Debug\Addons.csproj.ResolveComReference.cache
+c:\users\paulo.moraes\documents\visual studio 2013\Projects\Addons\Addons\obj\Debug\Addons.EscolherEmpresa.resources
+c:\users\paulo.moraes\documents\visual studio 2013\Projects\Addons\Addons\obj\Debug\Addons.Form1.resources
+c:\users\paulo.moraes\documents\visual studio 2013\Projects\Addons\Addons\obj\Debug\Addons.Properties.Resources.resources
+c:\users\paulo.moraes\documents\visual studio 2013\Projects\Addons\Addons\obj\Debug\Addons.csproj.GenerateResource.Cache
+c:\users\paulo.moraes\documents\visual studio 2013\Projects\Addons\Addons\obj\Debug\Addons.exe
+c:\users\paulo.moraes\documents\visual studio 2013\Projects\Addons\Addons\obj\Debug\Addons.pdb

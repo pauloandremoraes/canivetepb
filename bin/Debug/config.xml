@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config.xml>
+  <config>
+    <server>SRVEVOSAP01</server>
+    <user>manager</user>
+    <password>1234</password>
+    <tiposerver>MSSQL2012</tiposerver>
+    <Empresa>SBO_EVO_SA_2016_TESTE</Empresa>
+  </config>
+</Config.xml>

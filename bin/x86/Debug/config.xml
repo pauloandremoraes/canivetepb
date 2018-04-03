@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config.xml>
+  <config>
+    <server>SRVEVOSAP01</server>
+    <user>manager</user>
+    <password>Tec@2018</password>
+    <tiposerver>MSSQL2012</tiposerver>
+    <Empresa>TECNIPAR_PRD_2018</Empresa>
+  </config>
+</Config.xml>
